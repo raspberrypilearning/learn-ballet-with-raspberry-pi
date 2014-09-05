@@ -2,6 +2,8 @@
 
 A new resource to learn Ballet with (or without) the [Raspberry Pi](http://www/raspberrypi.org).
 
+![Ballet Babbage](http://www.raspberrypi.org/img/ballet-babbage.jpg)
+
 ## Introduction
 
 Ballet makes you feel special! It's an art that enables you to express yourself through movement, imagery and emotion. This article will teach you how to perform the basic ballet positions and to get started in ballet.

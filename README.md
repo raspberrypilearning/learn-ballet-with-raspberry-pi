@@ -1,6 +1,6 @@
 # Learn Ballet with Raspberry Pi
 
-A new resource to learn Ballet with (or without) the [Raspberry Pi](http://www/raspberrypi.org).
+A new resource to learn Ballet with (or without) the [Raspberry Pi](http://www.raspberrypi.org).
 
 ![Ballet Babbage](http://www.raspberrypi.org/img/ballet-babbage.jpg)
 

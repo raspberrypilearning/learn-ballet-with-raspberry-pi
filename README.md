@@ -46,7 +46,7 @@ pa-duh-shah: you just jump and point your feet one by one at your leg, or you ca
 
 ## Step 6: Find a class
 
-![](http://www.wikihow.com/Image:Learn-Basic-Ballet-Moves-Step-6-Version-2.jpg)
+![](http://pad3.whstatic.com/images/thumb/8/8c/Learn-Basic-Ballet-Moves-Step-6-Version-2.jpg/670px-Learn-Basic-Ballet-Moves-Step-6-Version-2.jpg)
 
 You need a ballet teacher to help you know if you are doing it correctly. This is very important as there is only so much you can teach yourself at home off the internet or from a book. Get a good teacher; keep looking until you feel a "click" with the person teaching you.
 

@@ -1,6 +1,6 @@
 # Learn Ballet with Raspberry Pi
 
-A new resource to learn Ballet with (or without) the [Raspberry Pi](http://www.raspberrypi.org).
+A new resource to learn Ballet with (or without) a [Raspberry Pi](http://www.raspberrypi.org) computer.
 
 ![Ballet Babbage](http://www.raspberrypi.org/img/ballet-babbage.jpg)
 
@@ -12,7 +12,7 @@ Ballet makes you feel special! It's an art that enables you to express yourself 
 
 ![](http://pad1.whstatic.com/images/thumb/5/50/Learn-Basic-Ballet-Moves-Step-1-Version-2.jpg/670px-Learn-Basic-Ballet-Moves-Step-1-Version-2.jpg)
 
-1. Place your heels touching together and your feet facing in opposite directions. Make sure your legs are turned out right from your thighs, not just below your knees or you could get serious knee injuries.
+1. Referred to as **first position of the feet**, or more simply **first position**. Place your heels touching together and your feet facing in opposite directions. Make sure your legs are turned out right from your thighs, not just below your knees or you could get serious knee injuries.
 
 2. Like first, but place your feet about a foot apart. Keep the toes turned outwards.
 
